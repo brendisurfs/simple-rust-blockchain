@@ -1,3 +1,6 @@
+// This is a rewrite from https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
+// This is just for me to practice Rust as well as build a blockchain from scratch to really see what goes into one.
+
 pub mod p2p;
 
 use chrono::prelude::*;
